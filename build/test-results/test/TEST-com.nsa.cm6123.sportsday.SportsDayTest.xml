@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nsa.cm6123.sportsday.SportsDayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-11T20:14:02" hostname="NSA107D1A1A61FF" time="0.001">
+  <properties/>
+  <testcase name="getEventName" classname="com.nsa.cm6123.sportsday.SportsDayTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

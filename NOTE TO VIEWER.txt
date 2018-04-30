@@ -1,0 +1,4 @@
+This was the first project which I attempted in java where we had to recreate a school sports day management system. This project was extremely challenging as understanding
+OOP was very tough due to various concepts. This project is very rough and not extremely refined unlike my others, however I guess it can be used to compare my progress and 
+the changes in the way I thought whilst learning to code. Although this is not one of my best projects I still believe that there was a lot learned from this and it was
+a vital part of my learning and setting me up for learning android development. 
